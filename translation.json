@@ -1,6 +1,5 @@
 Keep the formatting intact, including any special characters like ** , \n, {}, etc.
 Text inside {} are variables (like {first_name}, {title}) that should remain unchanged
-________________________________________________________________________________________________
 
 {
     "en": {
