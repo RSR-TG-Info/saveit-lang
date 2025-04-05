@@ -9,10 +9,7 @@ You can help make the bot multilingual by adding your language!
 2. Add your language and translations following the existing format  
 3. Create a Pull Request
 
-> ✅ Please make sure:
-> - Your language key is unique (e.g., "fr" for French, "de" for German)
-> - Your translations are complete and correctly structured
-> - You do not break the JSON format (use a validator if needed)
+> ✅ Please make sure your translations are complete and correctly structured.
 
 ## 🧠 Why This Exists
 
