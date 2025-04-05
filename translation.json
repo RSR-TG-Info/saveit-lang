@@ -1,4 +1,4 @@
-languages = { // Keep the formatting intact, including any special characters like ** , \n, {}, etc. Text inside {} are variables (like {first_name}, {title}) that should remain unchanged
+languages = {
     "en": {
         "name": "English",
         "start_message": "Hello {first_name}\n\nI am a social media post downloader bot. You can download public posts from YouTube, Facebook, Instagram, X(Twitter), TikTok, and Pinterest. Just send me the link, and I'll fetch it for you.\n\nIf you want to know how to use me, click the **Tutorial** button below. You must also join the channel to use me.",
