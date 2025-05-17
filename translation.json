@@ -47,7 +47,7 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
         "could_not_process_media": "Could not process media.",
         "no_media_found": "No media found for URL.",
         "failed_to_fetch_media": "Could not fetch media from Instagram.",
-        "btn_tutorial": "Tutorial",
+        "btn_channel": "Channel",
         "btn_change_language": "Change Language",
         "add_premium": "You are now a premium user. Enjoy your benefits."
         "remove_premium": "Oops! Your premium plan has expired. You can re-subscribe anytime to keep enjoying all the premium features. To re-subscribe, just contact us through this bot: @saveitrealhelpbot."
@@ -97,7 +97,7 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
         "could_not_process_media": "Media ka la chhuak thei lo.",
         "no_media_found": "He link-ah hian media ka hmu lo.",
         "failed_to_fetch_media": "Instagram lam aṭangin media hmuh tur a awm lo.",
-        "btn_tutorial": "A tih dan",
+        "btn_channel": "Channel",
         "btn_change_language": "Ṭawng thlakna",
         "add_premium": "Premium user-ah dah i ni e, ṭangkai taka i hman kan beisei."
         "remove_premium": "I premium subscribe kha a tawp e. I duh chuan i subscribe nawn leh thei ang. I subscribe nawn leh duh chuan @saveitrealhelpbot-ah hian min rawn be dawn nia."
