@@ -4,7 +4,7 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
 {
     "en": {
         "name": "English",
-        "start_message": "Hello {first_name}\n\nI am a social media post downloader bot. You can download public posts from YouTube, Facebook, Instagram, X(Twitter), TikTok, and Pinterest. Just send me the link, and I'll fetch it for you.\n\nIf you want to know how to use me, click the **Tutorial** button below. You must also join the channel to use me.",
+        "start_message": "Hello {first_name}\n\nI am a YouTube post downloader bot. You can download public posts from YouTube through me. Send me the link if you want to download, and choose the type you want to download.\n\nYou need to join our channel to use me.",
         "donateex": "Add the amount of stars you want to send after the command.\n\n**Example:**\n/donate 1000",
         "donateless": "You can't send a star less than 1.",
         "donatecf": "Click the Pay button below and confirm it.",
@@ -54,7 +54,7 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
     },
     "lus": {
         "name": "Mizo",
-        "start_message": "Chibai le {first_name}\n\nKei hi social media post download-na bot ka ni a, keima kaltlangin YouTube te, Facebook te, Instagram te, X(Twitter) te, TikTok te leh Pinterest public post te i download thei ang. A post link kha min thawn tawp mai dawn nia, chuan, ka lo download-sak ang che. Min hman dan i hriat duh chuan a hnuaia **A tih dan** tih button khu i hmet dawn nia. Chuan, kha mi channel kha min hman theih nan i join a ngai bawk ang.",
+        "start_message": "Chibai le {first_name}\n\nKei hi YouTube post download-na bot ka ni a, keima kaltlangin YouTube public post-te i download thei ang. I download duh link kha min thawn la, i download duh dan i thlang leh dawn nia.\n\nMin hman i duh chuan kan channel i join ve a ngai ang.",
         "donateex": "I star thawn duh zat kha command zawhah dah tel rawh.\n\n**Entir nan:**\n/donate 1000",
         "donateless": "Star 1 aia tlem a tih theih loh.",
         "donatecf": "Pay tih button khu hmet la i confirm dawn nia.",
