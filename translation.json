@@ -49,6 +49,10 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
         "failed_to_fetch_media": "Could not fetch media from Instagram.",
         "btn_channel": "Channel",
         "btn_change_language": "Change Language",
+        "find_song": "Finding the song...",
+        "song_not_found": "Song not found.",
+        "cant_rec": "I can't recognize file larger than 29MB.",
+        "not_found_in_yt": "I haven't found this song on YouTube.",
         "add_premium": "You are now a premium user. Enjoy your benefits."
         "remove_premium": "Oops! Your premium plan has expired. You can re-subscribe anytime to keep enjoying all the premium features. To re-subscribe, just contact us through this bot: @saveitrealhelpbot."
     },
@@ -99,6 +103,10 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
         "failed_to_fetch_media": "Instagram lam aṭangin media hmuh tur a awm lo.",
         "btn_channel": "Channel",
         "btn_change_language": "Ṭawng thlakna",
+        "find_song": "Hla zawn mek a ni...",
+        "song_not_found": "Ka zawng hmu lo.",
+        "cant_rec": "29MB aia lian ka zawng thei lo.",
+        "not_found_in_yt": "He hla hi YouTube-ah ka hmu lo.",
         "add_premium": "Premium user-ah dah i ni e, ṭangkai taka i hman kan beisei."
         "remove_premium": "I premium subscribe kha a tawp e. I duh chuan i subscribe nawn leh thei ang. I subscribe nawn leh duh chuan @saveitrealhelpbot-ah hian min rawn be dawn nia."
     }
