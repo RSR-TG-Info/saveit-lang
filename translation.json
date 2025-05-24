@@ -53,6 +53,8 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
         "song_not_found": "Song not found.",
         "cant_rec": "I can't recognize file larger than 29MB.",
         "not_found_in_yt": "I haven't found this song on YouTube.",
+        "joined_message": "**Welcome!**\n\nThank you for joining our channel @mzbots 😊\n\nStay tuned for the latest features, improvements, and announcements.",
+        "left_message": "**Goodbye!**\n\nWe're sorry to see you go. You’ve left our channel @mzbots 😔\n\nBut you’re always welcome back anytime. We’ll be glad to have you 😊",
         "add_premium": "You are now a premium user. Enjoy your benefits."
         "remove_premium": "Oops! Your premium plan has expired. You can re-subscribe anytime to keep enjoying all the premium features. To re-subscribe, just contact us through this bot: @saveitrealhelpbot."
     },
@@ -107,6 +109,8 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
         "song_not_found": "Ka zawng hmu lo.",
         "cant_rec": "29MB aia lian ka zawng thei lo.",
         "not_found_in_yt": "He hla hi YouTube-ah ka hmu lo.",
+        "joined_message": "**Chibai le!**\n\nKan channel @mzbots i lo join a vangin kan lawm e 😊\n\nKan channel-ah hian bot update a nih huna dah thar te leh hriat tur pawimawh kan dah chhuak ṭhin a, i lo ngaichang ve ṭhin dawn nia.",
+        "left_message": "**A nih phawt aw!**\n\nKan channel @mzbots i chhuahsan avangin pawi kan ti hle 😔\n\nEngtik lai pawhin i lo join leh thei ang, kan lawm viau ang 😊",
         "add_premium": "Premium user-ah dah i ni e, ṭangkai taka i hman kan beisei."
         "remove_premium": "I premium subscribe kha a tawp e. I duh chuan i subscribe nawn leh thei ang. I subscribe nawn leh duh chuan @saveitrealhelpbot-ah hian min rawn be dawn nia."
     }
