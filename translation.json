@@ -126,7 +126,7 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
         "playlist_too_large": "Playlist-ah hian video {count} a awm a, a tam lutuk. Video 50 aia tam awmna a download theih loh.",
         "playlist_format_choice": "**Playlist hming:** {title}\n\n**Video awm zât:** {count}\n\n**I download duh dan thlang rawh:**",
         "starting_playlist_download": "**{title}** playlist a mi hi **{type}**-a download mek a ni.\n\n**Video awm zat:** {count}",
-        "playlist_download_complete": "Playlist download zawh a ni e.\n\n**Download zawh** {successful}\n**Download theih loh** {failed}",
+        "playlist_download_complete": "Playlist download zawh a ni e.\n\n**Download zawh:** {successful}\n**Video awm zât:** {total}\n**Download theih loh:** {failed}",
         "duration_limit_message": "Video {duration_count} hi minute 6 aiin a sei a, minute 6 aia sei ka download thei lo.",
         "other_error_message": "Video {error_count} hi harsatna dang vangin ka download thei lo.",
         "not_found_in_yt": "He hla hi YouTube-ah ka hmu lo.",
