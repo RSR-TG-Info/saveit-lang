@@ -58,7 +58,7 @@ Text inside {} are variables (like {first_name}, {title}) that should remain unc
         "playlist_not_found": "Playlist not found or is private.",
         "playlist_too_large": "Playlist is too large ({count} videos). Maximum allowed is 50 videos.",
         "playlist_format_choice": "**Playlist:** {title}\n\n**Total Videos:** {count}\n\n**Choose download type:**",
-        "starting_playlist_download": "Starting **{type} **download for playlist: {title}\n\n**Total videos:** {count}",
+        "starting_playlist_download": "**Starting {type} download for playlist:** {title}\n\n**Total videos:** {count}",
         "playlist_download_completed": "**Playlist download completed.**\n\n**Successful:** {successful}/{total}\n**Failed:** {failed}",
         "duration_limit_message": "{duration_count} video(s) is longer than 6 minutes, 6 minutes is limit.",
         "other_error_message": "{error_count} video(s) has another problem.",
